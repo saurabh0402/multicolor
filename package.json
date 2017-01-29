@@ -1,0 +1,20 @@
+{
+  "name": "multicolor",
+  "version": "0.0.1",
+  "description": "A node module to add colors to the node.js console.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabh0402/multicolor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabh0402/multicolor/issues"
+  },
+  "homepage": "https://github.com/saurabh0402/multicolor#readme"
+}
