@@ -11,3 +11,6 @@ console.log(c.rainbowDark("Hello world is not that a big sentence"));
 console.log(c.bRainbow("Hello world is not that a big sentence"));
 console.log(c.bRainbowBright("Hello world is not that a big sentence"));
 console.log(c.bRainbowDark("Hello world is not that a big sentence"));
+console.log("Hello " + c.bold(c.fBlue("World")));
+console.log("Hello " + c.underline(c.fCyan("World")));
+console.log("Hello " + c.bold(c.fbCyan(c.inverse(" World "))));
